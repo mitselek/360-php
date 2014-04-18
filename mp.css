@@ -1,0 +1,53 @@
+body { margin: 0px; font-family: Arial, sans-serif; }
+a { text-decoration: underline; font-weight: bold; color: #000088; }
+a:hover { text-decoration: underline; color: #2222ff; }
+
+.idinput { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; color: #a8731f; background-color: #ffffff; border-color: #a8731f; border-width: 1px; height: 16px; }
+.subbut { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #ffeecc; background-color: #665522; border-color: #a8731f; border-width: 1px; height: 18px; }
+.inp100 { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #a8731f; background-color: #ffffff; border-color: #a8731f; border-width: 1px; width: 100%; }
+.text100 { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #a8731f; background-color: #ffffff; border-color: #a8731f; border-width: 1px; width: 620px; height: 64px; }
+
+textarea { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; background-color: #ffffff; border-color: #a8731f; border-width: 1px; }
+
+.title { font-family: Arial, sans-serif; font-weight: bold; font-size: 16px; line-height: 26px; color: #444400; }
+.subtitle { font-family: Arial, sans-serif; font-weight: bold; font-size: 14px; line-height: 20px; color: #444400; }
+
+.hinnatav0 { font-family: Arial, sans-serif; font-weight: normal; font-size: 12; color: #00cc00; text-decoration: line-through; }
+.hinnatav1 { font-family: Arial, sans-serif; font-weight: bold; font-size: 14; color: #882200; }
+.hinnatav2 { font-family: Arial, sans-serif; font-weight: normal; font-size: 12; color: #556644; }
+
+.blok, .mini {
+ font-family: Arial, sans-serif; font-size: 16; line-height: 18px;
+ color: #cc0000; background-color: #dfe0ce;
+ border-width: 1px;
+ padding: 8px;
+ font-weight: bold;
+ text-transform: uppercase;
+}
+.kysimus-vastamata, .kysimus-vastatud { font-family: Arial, sans-serif; font-weight: bold; }
+.kysimus-vastatud { color: #007700; background-color: #efefe2; font-size: 11px; }
+.kysimus-vastamata { color: #cc0000; background-color: #ffefe2; font-size: 13px; }
+
+
+.abitekst { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #7e5415; background-color: #ffffff; }
+
+.disk, .teks {
+ font-family: Arial, sans-serif; font-size: 16; line-height: 18px;
+ color: #000000; background-color: #efeee8;
+ padding: 8px;
+ font-weight: bold;
+}
+
+.cells {
+ border-width: 1px;
+ border-style: dotted;
+ border-color: #bbbcad;
+}
+.lead { font-family: Arial, sans-serif; font-weight: bold; font-size: 12px; line-height: 15px; color: #000000; padding-top: 5px; padding-right: 10px; }
+.plain, td { font-family: Arial, sans-serif; font-size: 12px; line-height: 14px; color: #000000; }
+.red {
+ font-family: Arial, sans-serif;
+ color: #cc0000;
+ font-weight: bold;
+}
+
